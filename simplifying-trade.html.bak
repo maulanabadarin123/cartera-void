@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Explore Cartera: Your Digital Hub</title>
+  <link rel="shortcut icon" type="image/png" href="/src/assets/cartera/logo.png" />
+  <link rel="stylesheet" href="./src/assets/css/styles.min.css" />
+</head>
+
+<body>
+  <!--  Body Wrapper -->
+  <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+    data-sidebar-position="fixed" data-header-position="fixed">
+    <!-- Sidebar Start -->
+    <aside class="left-sidebar">
+      <!-- Sidebar scroll-->
+      <div>
+        <div class="brand-logo d-flex align-items-center justify-content-between bg-dark">
+          <a href="./index.html" class="text-nowrap logo-img">
+            <img src="/src/assets/cartera/logo.png" width="180" alt="" />
+          </a>
+          <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
+            <i class="ti ti-x fs-8"></i>
+          </div>
+        </div>
+        <!-- Sidebar navigation-->
+        <nav class="sidebar-nav scroll-sidebar mt-2 mb-5" data-simplebar="">
+          <ul id="sidebarnav">
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./index.html" aria-expanded="false">
+                <span class="hide-menu">Introduction to Cartera</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./key-feature.html" aria-expanded="false">
+                <span class="hide-menu">Key Feature of Cartera</span>
+              </a>
+            </li>
+            <!-- <li class="nav-small-cap">
+              <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+              <span class="hide-menu">PRODUCTS OVERVIEW</span>
+            </li> -->
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./decentralization.html" aria-expanded="false">
+                <span class="hide-menu">Decentralization and Security</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./user-controlled.html" aria-expanded="false">
+                <span class="hide-menu">User-Controlled Access</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./simplifying-trade.html" aria-expanded="false">
+                <span class="hide-menu">Simplifying Trade and Management <br> for AI/ML Developers</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./revenue-sharing.html" aria-expanded="false">
+                <span class="hide-menu">Revenue Sharing for Invenstors</span>
+              </a>
+            </li>
+           
+            <!-- <li class="sidebar-item">
+              <a class="sidebar-link" href="./app-integration.html" aria-expanded="false">
+                <span class="hide-menu">App Integration</span>
+              </a>
+            </li> -->
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./getting-started.html" aria-expanded="false">
+                <span class="hide-menu">Getting Started with Cartera</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./tokenomics.html" aria-expanded="false">
+                <span class="hide-menu">Tokenomics</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="./conclusion.html" aria-expanded="false">
+                <span class="hide-menu">Conclusion and Future of Cartera</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <!-- End Sidebar navigation -->
+      </div>
+      <!-- End Sidebar scroll-->
+    </aside>
+    <!--  Sidebar End -->
+    <!--  Main wrapper -->
+    <div class="body-wrapper">
+      <!--  Header Start -->
+      <header class="app-header">
+        <nav class="navbar navbar-expand-lg navbar-light">
+          <ul class="navbar-nav">
+            <li class="nav-item d-block d-xl-none">
+              <a
+                class="nav-link sidebartoggler nav-icon-hover"
+                id="headerCollapse"
+                href="javascript:void(0)"
+              >
+                <i class="ti ti-menu-2"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="javascript:void(0)">
+                <img src="/src/assets/cartera/logo.png" alt="" width="35" height="35" class="rounded-circle bg-black p-1">
+                <h5 class="ms-3">Cartera Docs</h5>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+      <!--  Header End -->
+      <div class="container-fluid">
+        <div class="card">
+          <div class="card-body">
+            <h1 class="mb-5">Simplifying Trade and Management for AI/ML Developers
+            </h1>
+            <h5 class="mb-3" style="line-height: 30px;text-align:justify;">
+              Cartera stands out as a pivotal solution for AI/ML developers by simplifying the complexities associated with trading and asset management. In a field where rapid advancements and integration of machine learning models are critical, Cartera provides a centralized platform that eliminates the need for multiple tools and interfaces. This streamlining not only saves time but also enhances productivity, allowing developers to focus on what they do best: innovating and creating.
+             </h5>
+             <div class="d-flex justify-content-center mb-3">
+              <img src="./src/assets/cartera/sub5.png" alt="" width="300">
+             </div>
+             <h5 class="mb-3" style="line-height: 30px;text-align:justify;">
+              The user-friendly interface of Cartera is designed with AI/ML developers in mind, featuring intuitive navigation and robust functionality that accommodates both novice and experienced users. The platform integrates essential trading features directly into its dashboard, enabling seamless asset management without the cumbersome process of switching between different applications. This ease of use ensures that developers can quickly access the tools they need, whether it's for monitoring performance metrics, executing trades, or managing portfolios.
+             </h5>
+             <h5 class="mb-3" style="line-height: 30px;text-align:justify;">
+              One of the most significant advantages of using Cartera is the consolidation of functions into a single platform. This integration reduces the risk of errors that can occur when data must be transferred across multiple systems, thus improving accuracy and reliability in trading operations. Moreover, by having all necessary functionalities in one place, AI/ML developers can leverage real-time data analytics to make informed decisions swiftly, which is essential in a fast-paced environment where every second counts.
+             </h5>
+             <h5 class="mb-3" style="line-height: 30px;text-align:justify;">
+              Additionally, avoiding multiple platforms not only simplifies the workflow but also facilitates better collaboration among team members. With a unified system, teams can communicate more effectively about trading strategies, share insights, and coordinate efforts without the barriers that often arise from using disparate tools. This collaborative environment nurtures innovation and accelerates project timelines, ultimately leading to more successful outcomes for AI/ML initiatives.
+             </h5>
+            
+             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="./src/assets/libs/jquery/dist/jquery.min.js"></script>
+  <script src="./src/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="./src/assets/js/sidebarmenu.js"></script>
+  <script src="./src/assets/js/app.min.js"></script>
+  <script src="./src/assets/libs/simplebar/dist/simplebar.js"></script>
+</body>
+
+</html>
